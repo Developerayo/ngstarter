@@ -1,2 +1,0 @@
-# ngstarter
-Created with CodeSandbox
